@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./controller.server.rest/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
